@@ -28,7 +28,7 @@ e.g.
 ```
 Running SampleCode without a parameter will give you the list of sample names.
 
-**NOTE : You can update to your Sandbox credentials in SampleCode.java**
+http://18.217.29.93:8080/
 
 **For using behind proxy**
 
